@@ -30,3 +30,7 @@ volume
 
 ./data
 /data
+./extensions
+/extensions
+./logs
+/logs
